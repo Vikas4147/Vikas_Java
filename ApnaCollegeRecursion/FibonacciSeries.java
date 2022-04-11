@@ -6,7 +6,7 @@ public class FibonacciSeries {
             return ;
         }
         System.out.print(a+" ");
-        fibonacci(b,a+b,n-1);
+        fibonacci(b,a+b, n-1);
 
     }
     public static void main(String[] args) {
